@@ -1,0 +1,19 @@
+# Env files
+.env*
+!.env.example.json
+
+# Local development files
+local/
+
+# Binaries
+bin/
+
+# tmp files
+tmp/
+
+# node modules
+node_modules/
+
+.terraform/
+.terraform*
+terraform.tfstate*
